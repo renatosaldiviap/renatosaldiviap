@@ -38,9 +38,5 @@ Focused on extracting actionable insights, building robust Machine Learning pipe
 
 ### 📫 Contact With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/renatosaldiviap/  
-- 📸 Pixel art: https://www.instagram.com/pixel_rengy/  
-
----
-
-⭐ Open to junior opportunities and learning experiences
+- 💼 LinkedIn: https://www.linkedin.com/in/renatosaldiviap/
+- 📸 Pixel art: https://www.instagram.com/pixel_rengy/
